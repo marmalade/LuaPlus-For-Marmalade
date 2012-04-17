@@ -11,7 +11,7 @@ LuaPlus into your Marmalade project.
 Original LuaPlus homepage is: http://luaplus.org
 
 The LuaPlus source is compiled completely unmodified
-(but a pair of file are not necessary and are not included in luaplus.mkf).
+(but a pair of file is not necessary and they are not included in luaplus.mkf).
 
 To include LuaPlus into your project, put the luaplus directory within your project directory.
 Then you'll need to add this LuaPlus subproject and the include path to it:
