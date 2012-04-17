@@ -13,7 +13,8 @@ Original LuaPlus homepage is: http://luaplus.org
 The LuaPlus source is compiled completely unmodified
 (but a pair of file are not necessary and are not included in luaplus.mkf).
 
-To include LuaPlus into your project, put the luaplus directory within your project directory. Then you'll need to add this LuaPlus subproject and the include path to it:
+To include LuaPlus into your project, put the luaplus directory within your project directory.
+Then you'll need to add this LuaPlus subproject and the include path to it:
 
 subprojects
 {
@@ -27,4 +28,5 @@ includepath
 }
 
 Some LuaPLus examples can be found on the LuaPLus homepage (http://luaplus.org).
-Although there are some great titles created with LuaPlus (Supreme Commander FA, UFO200 and some others) it is acceptable to use LuaPlus on mobile devices without any significant performances penalties.
+Although there are some great titles created with LuaPlus (Supreme Commander FA, UFO200 and some others),
+it is acceptable to use LuaPlus on mobile devices without any significant performances penalties.
