@@ -28,5 +28,5 @@ includepath
 }
 
 Some LuaPLus examples can be found on the LuaPLus homepage (http://luaplus.org).
-Although there are some great titles created with LuaPlus (Supreme Commander FA, UFO200 and some others),
+Although there are some great titles created with LuaPlus (Supreme Commander FA, UFO2000 and some others),
 it is acceptable to use LuaPlus on mobile devices without any significant performances penalties.
